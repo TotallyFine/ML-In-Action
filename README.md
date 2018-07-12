@@ -1,5 +1,5 @@
 ## Machine Learning in Action
-这是对《机器学习实战》前十一章的学习记录。
+这是对《机器学习实战》的学习记录。
 
 第6章支持向量机部分并没有按照书上来，而是参考了scikit-learn中的SVM部分，学习了scikit-learn中的SVM使用。
 
